@@ -39,7 +39,7 @@
 
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__frames/video__iframes.css);
-
+@import url(../blocks/video/__iframe/video__iframe.css);
 
 /*ниже подключаем стили бля секции oakley*/
 @import url(../blocks/oakley/oakley.css);

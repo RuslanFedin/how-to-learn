@@ -2,4 +2,6 @@
   width: 16px;
   height: 16px;
   padding-right: 10px;
+  object-fit:contain;
+  object-position: center;
 }
