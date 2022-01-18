@@ -1,0 +1,5 @@
+.section-subtitle_theme_dark {
+  position: relative; /*задал относительное позиционирование, без него z-index не работает */
+  z-index: 1;
+  color: #f2f2f2;
+}

@@ -1,0 +1,6 @@
+.table__cell_theme_dark {
+  z-index: 1; /*не позиционированный элемент, такой как элемент внутри флексбокса также может получать z-index. */
+  width: 200px;
+  margin-top: 80px;
+  color: #f2f2f2;
+}

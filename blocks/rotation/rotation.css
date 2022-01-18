@@ -1,0 +1,58 @@
+.rotation {
+
+  -webkit-animation-name: rotation;
+  -webkit-animation-duration: 20s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-transition-timing-function: linear;
+
+  -moz-animation-name: rotation;
+  -moz-animation-duration: 20s;
+  -moz-animation-iteration-count: infinite;
+  -moz-transition-timing-function: linear;
+
+  -ms-animation-name: rotation;
+  -ms-animation-duration: 20s;
+  -ms-animation-iteration-count: infinite;
+  -ms-transition-timing-function: linear;
+
+
+  animation-name: rotation;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  transition-timing-function: linear;
+}
+
+  @-webkit-keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    } to {
+      transform: rotate(360deg)
+    }
+  }
+
+  @-moz-keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    } to {
+      transform: rotate(360deg)
+    }
+  }
+
+  @-ms-keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    } to {
+      transform: rotate(360deg)
+    }
+  }
+
+  @keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    } to {
+      transform: rotate(360deg)
+    }
+  }
+
+
+
