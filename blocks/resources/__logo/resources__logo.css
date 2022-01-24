@@ -4,3 +4,8 @@
   object-fit: contain;
   object-position: center;
 }
+
+.resources__logo:hover {
+  opacity: 60%;
+  transition: 0.6s;
+}

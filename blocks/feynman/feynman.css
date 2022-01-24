@@ -1,6 +1,5 @@
 .feynman {
   position: relative;
-  overflow: hidden;
   min-height: 890px;
   background-image: url('../../images/feynman.png');
   background-repeat: no-repeat;
